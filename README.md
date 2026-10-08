@@ -1,59 +1,63 @@
-# Hi, I'm Gohar Mujtaba 👋
+<div align="center">
 
-### SEO Executive & Designer | Exploring AI & Automation
+# Gohar Mujtaba
 
-I work at the intersection of **SEO, design, and digital growth**. My professional background is in search engine optimization and design, and I’m currently expanding my skills in **AI and automation** to build smarter, more efficient digital workflows.
+### SEO · Design · AI & Automation
 
-I use GitHub to document what I learn, organize experiments, and build practical projects that connect my existing SEO and design experience with emerging AI and automation tools.
+**Building practical connections between search, visual communication, and intelligent workflows.**
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-goharmujtaba97-181717?style=flat-square&logo=github)](https://github.com/goharmujtaba97)
+![Focus](https://img.shields.io/badge/Focus-Digital%20Growth-2563EB?style=flat-square)
+![Learning](https://img.shields.io/badge/Exploring-AI%20%26%20Automation-0F766E?style=flat-square)
 
-## Professional Focus
-
-- **SEO & Organic Growth** — improving search visibility, content performance, and digital discoverability
-- **Design & Visual Communication** — creating clear, effective, and user-focused digital visuals
-- **AI & Automation** — learning how AI can improve research, productivity, marketing workflows, and repetitive tasks
+</div>
 
 ---
 
-## Currently Exploring
+## About me
 
-- AI-assisted SEO workflows
-- Marketing and task automation
-- Prompt design and practical AI use cases
-- Workflow optimization
-- AI-powered research and content processes
-- Building small experiments and documenting what I learn
+I'm **Gohar Mujtaba**, an SEO professional and designer exploring how **AI and automation** can make digital work more useful, efficient, and measurable.
+
+My work and learning sit at the intersection of organic search, design, research, and digital systems. This GitHub profile documents what I'm experimenting with, the workflows I'm improving, and the projects I'm developing as I learn.
+
+## Areas of focus
+
+| Discipline | What I'm working on |
+| --- | --- |
+| **SEO & organic growth** | Search visibility, content performance, and digital discoverability |
+| **Design** | Clear, purposeful visual communication and user-focused design |
+| **AI** | Applied research, prompting, and AI-assisted content workflows |
+| **Automation** | Streamlining repeatable marketing, research, and productivity tasks |
+
+## Currently exploring
+
+- AI-assisted SEO research and content processes
+- Marketing automation and workflow optimization
+- Prompt design and practical AI applications
+- Productivity systems and small, documented experiments
+
+## Projects & learning
+
+I'm using GitHub to develop and document practical ideas rather than simply collect tools. My direction is:
+
+**SEO + Design → AI-assisted workflows → Automation → Useful digital systems**
+
+Explore my [repositories](https://github.com/goharmujtaba97?tab=repositories) for work in progress, experiments, and future projects.
+
+## GitHub activity
+
+<div align="center">
+
+[![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=goharmujtaba97&theme=github-dark&hide_border=true)](https://github.com/goharmujtaba97)
+
+</div>
+
+> My focus is steady learning, practical implementation, and clear documentation. Public activity reflects only work visible on GitHub.
+
+## Connect
+
+**GitHub:** [github.com/goharmujtaba97](https://github.com/goharmujtaba97)
 
 ---
 
-## What I'm Building Toward
-
-My goal is to combine **SEO + Design + AI + Automation** into practical systems that help make digital work more efficient, data-informed, and scalable.
-
-Some areas I plan to explore here include:
-
-- SEO automation experiments
-- AI-assisted research workflows
-- Content and marketing automation
-- Productivity systems
-- Digital design workflows
-- Practical AI projects
-
----
-
-## GitHub Learning Journey
-
-This profile is also a record of my technical learning. I’m focused on building real projects, improving them over time, and documenting the process rather than simply collecting tools or technologies.
-
-> **Current direction:** SEO & Design → AI-assisted workflows → Automation → Practical digital systems
-
----
-
-## Let's Connect
-
-- **GitHub:** [@goharmujtaba97](https://github.com/goharmujtaba97)
-
----
-
-_Always learning, experimenting, and building better digital workflows._
+<div align="center"><sub>Learning, experimenting, and building better digital workflows.</sub></div>
